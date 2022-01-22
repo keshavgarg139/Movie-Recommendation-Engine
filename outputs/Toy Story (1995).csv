@@ -1,0 +1,12 @@
+movieId,title,genres,rating,tag_sim
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,3.921239561324077,1.0
+78499,Toy Story 3 (2010),Adventure|Animation|Children|Comedy|Fantasy|IMAX,4.012973533990659,0.9499452114105225
+4886,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,3.8794437164475633,0.948607861995697
+3114,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,3.8418533157663592,0.9424525499343872
+4306,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,3.843613161516327,0.9156805276870728
+6377,Finding Nemo (2003),Adventure|Animation|Children|Comedy,3.8862276719419575,0.8994253873825073
+2355,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy,3.610603469337894,0.8883883357048035
+2987,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,3.529693178159069,0.8862532377243042
+8961,"Incredibles, The (2004)",Action|Adventure|Animation|Children|Comedy,3.908572146807441,0.882158100605011
+27155,"Batman/Superman Movie, The (1998)",Action|Adventure|Animation|Children|Fantasy|Sci-Fi,3.240740740740741,0.8508772850036621
+72356,Partly Cloudy (2009),Animation|Children|Comedy|Fantasy,3.8095238095238093,0.829749584197998

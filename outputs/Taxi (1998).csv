@@ -1,0 +1,12 @@
+movieId,title,genres,rating,tag_sim
+8604,Taxi (1998),Action|Comedy,3.513888888888889,1.0000003576278687
+5628,Wasabi (2001),Action|Comedy|Crime|Drama|Thriller,3.3583765112262522,0.8082041144371033
+78469,"A-Team, The (2010)",Action|Comedy|Thriller,3.336523736600306,0.7508005499839783
+112,Rumble in the Bronx (Hont faan kui) (1995),Action|Adventure|Comedy|Crime,3.412573591253154,0.7224392294883728
+7048,Nothing to Lose (1997),Action|Adventure|Comedy|Crime,3.23728813559322,0.7098644971847534
+3977,Charlie's Angels (2000),Action|Comedy,2.8072854728672465,0.7002725005149841
+3624,Shanghai Noon (2000),Action|Adventure|Comedy|Western,3.3247682119205297,0.6930596828460693
+7325,Starsky & Hutch (2004),Action|Comedy|Crime|Thriller,3.0318341121495327,0.6901722550392151
+4879,High Heels and Low Lifes (2001),Action|Comedy|Crime|Drama,2.9887640449438204,0.6789913773536682
+33679,Mr. & Mrs. Smith (2005),Action|Adventure|Comedy|Romance,3.2561583799304823,0.6695745587348938
+4084,Beverly Hills Cop II (1987),Action|Comedy|Crime|Thriller,3.059478672985782,0.6681181788444519
